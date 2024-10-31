@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05d9ebdc-739c-4f86-87c9-bf32e4bab8ba" name="Changes" comment="первый на Git проект" />
+    <list default="true" id="05d9ebdc-739c-4f86-87c9-bf32e4bab8ba" name="Changes" comment="16 строка закомментил кнопку" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SlavaTurovski"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/SlavaTurovski/java.git",
@@ -89,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730346618859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16 строка закомментил кнопку">
+      <option name="closed" value="true" />
+      <created>1730347000602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730347000602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый на Git проект" />
-    <option name="LAST_COMMIT_MESSAGE" value="первый на Git проект" />
+    <MESSAGE value="16 строка закомментил кнопку" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 строка закомментил кнопку" />
   </component>
 </project>
