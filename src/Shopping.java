@@ -13,7 +13,7 @@ public class Shopping {
             System.out.println("1. Добавить товар в список");
             System.out.println("2. Отобразить список");
             System.out.println("3. Очистить список");
-            System.out.println("4. Завершить программу");
+            // System.out.println("4. Завершить программу");
 
             int actionNumber = scanner.nextInt();   //считываем команду пользователя
             scanner.nextLine();     //отступ
