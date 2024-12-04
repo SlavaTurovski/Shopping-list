@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05d9ebdc-739c-4f86-87c9-bf32e4bab8ba" name="Changes" comment="16 строка закомментил кнопку" />
+    <list default="true" id="05d9ebdc-739c-4f86-87c9-bf32e4bab8ba" name="Changes" comment="16 строка раскомментил">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shopping/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shopping.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SlavaTurovski"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SlavaTurovski&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SlavaTurovski/java.git",
-    "accountId": "6c572963-3c55-4232-9969-0c8291eaa3bb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SlavaTurovski/java.git&quot;,
+    &quot;accountId&quot;: &quot;6c572963-3c55-4232-9969-0c8291eaa3bb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -103,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730347000602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="16 строка раскомментил">
+      <option name="closed" value="true" />
+      <created>1730347081320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730347081320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый на Git проект" />
     <MESSAGE value="16 строка закомментил кнопку" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 строка закомментил кнопку" />
+    <MESSAGE value="16 строка раскомментил" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 строка раскомментил" />
   </component>
 </project>
